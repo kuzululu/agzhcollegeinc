@@ -113,7 +113,7 @@ useEffect(()=>{
   return (
     <>
       <Helmet>
-        <title>First React Web APP | Contact</title>
+        <title>Contact | AZGH College Inc.</title>
       </Helmet>
 
       <div className="container-fluid mt-3 mb-5">
